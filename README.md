@@ -1,39 +1,52 @@
 <div align="center">
- 
+
   <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cb77e,100:2a9d8f&height=200&section=header&text=Hi,+I'm%20Rakibul!👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hi,+I'm+Rakibul+Islam+Emon!👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+  <!-- Custom Animated Name with Typewriter Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Frontend+Wizard+🧙‍♂️;React+Enthusiast+⚛️;Code+Craftsman+🛠️;Building+Tomorrow's+Web+Today+🚀" alt="Animated Name" />
+
+  <!-- Floating Profile Image -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220" style="border-radius: 50%; box-shadow: 0 0 40px #FF6B6B;">
+
+  <!-- Profile Badges -->
   <p>
-    <a href="https://github.com/Rakibulislam-emon"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Rakibulislam-emon&style=for-the-badge&color=3cb77e" /></a>
-    <a href="https://linkedin.com/in/rakibulislam-emon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:rakibulislamemon60@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-    <a href="https://rakibulislam-emon.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3CB77E?style=for-the-badge&logo=safari" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Rakibulislam-emon&style=for-the-badge&color=FF6B6B&label=👀_Profile+Views" />
+    <img src="https://img.shields.io/badge/🚀_Coding-Mode_ON-4ECDC4?style=for-the-badge&labelColor=000000" />
   </p>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://linkedin.com/in/rakibulislam-emon">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:rakibulislamemon60@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://rakibulislam-emon.vercel.app">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+    </a>
+    <a href="https://github.com/Rakibulislam-emon">
+      <img src="https://img.shields.io/badge/⭐_Follow-Me-181717?style=for-the-badge&logo=github" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> What I'm Up To
+## 🌟 About Me  
 
-<div align="center">
-  
 🔭 **Currently Working On:** Building a full-stack e-commerce platform with React & Node.js  
-
 🌱 **Learning:** Advanced React patterns, GraphQL, and Cloud Architecture  
-
-👯 **Looking to Collaborate:** Open source projects and innovative web applications  
-
-🎯 **2024 Goals:** Contribute to 10+ open source projects and master Next.js  
-
+👯 **Collaborating On:** Open source & innovative web apps  
+🎯 **2024 Goals:** Contribute to 10+ open source projects, master Next.js  
 💬 **Ask Me About:** React, JavaScript, Frontend Architecture  
-
-⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes! 🧩  
-
-</div>
+⚡ **Fun Fact:** I can solve a Rubik’s cube in under 2 minutes 🧩  
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Tech Arsenal
+## 🛠️ Tech Arsenal <a id="tech-arsenal"></a>
 
 <div align="center">
 
@@ -50,7 +63,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> GitHub Analytics
+## 📊 GitHub Analytics  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakibulislam-emon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
@@ -67,62 +80,34 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b1f236a.gif" width="30"> Featured Projects
+## 🚀 Featured Projects <a id="featured-projects"></a>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔗 Easy Link Saver Extension</h3>
-        <div align="center">  
-          <a href="https://github.com/Rakibulislam-emon/easy-link-saver-extension" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=easy-link-saver-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-          </p>
-        </div>
+        <h3 align="center">🔗 Easy Link Saver</h3>
+        <a href="https://github.com/Rakibulislam-emon/easy-link-saver-extension" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=easy-link-saver-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
       </td>
       <td width="50%">
         <h3 align="center">🛒 Nest E-commerce</h3>
-        <div align="center">
-          <a href="https://github.com/Rakibulislam-emon/Nest_Ecommerce" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=Nest_Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          </p>
-        </div>
+        <a href="https://github.com/Rakibulislam-emon/Nest_Ecommerce" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=Nest_Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🗂️ GitHub Repository Manager</h3>
-        <div align="center">
-          <a href="https://github.com/Rakibulislam-emon/github_repository_remover" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=github_repository_remover&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          </p>
-        </div>
+        <h3 align="center">🗂️ GitHub Repo Manager</h3>
+        <a href="https://github.com/Rakibulislam-emon/github_repository_remover" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakibulislam-emon&repo=github_repository_remover&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
       </td>
       <td width="50%">
-        <h3 align="center">🚀 More Projects Coming Soon...</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
-          <br>
-          <p><em>Working on exciting new projects!</em></p>
-        </div>
+        <h3 align="center">🚀 More Coming Soon...</h3>
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
       </td>
     </tr>
   </table>
@@ -130,44 +115,34 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c92-4c1e-8dc6-5c08a4b6a912.gif" width="30"> Connect & Collaborate
+## 🤝 Connect & Collaborate <a id="connect--collaborate"></a>
 
 <div align="center">
   <a href="mailto:rakibulislamemon60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rakibulislam-emon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/rakibulislamemon">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://rakibulislam-emon.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF5722" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://ko-fi.com/rakibulislamemon">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212284126-aa4c2b4b-8b6b-4d6d-8e5a-6d292e3e7d7d.gif" width="25">
-    Let's Build Something Amazing Together!
-    <img src="https://user-images.githubusercontent.com/74038190/212284126-aa4c2b4b-8b6b-4d6d-8e5a-6d292e3e7d7d.gif" width="25">
-  </h3>
-  
-  <p><em>"The best way to predict the future is to create it." - Peter Drucker</em></p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cb77e,100:2a9d8f&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
-  <strong>Thanks for visiting! Happy coding! 🚀</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
+  <h3>
+    ✨ "The best way to predict the future is to create it." – Peter Drucker ✨
+  </h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
