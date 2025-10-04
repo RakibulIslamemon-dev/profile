@@ -245,3 +245,112 @@
   <strong>Thanks for visiting! Happy coding! 🚀</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
 </div>
+## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c92-4c1e-8dc6-5c08a4b6a912.gif" width="30"> Connect & Collaborate
+
+<div align="center">
+  
+### 💫 Let's Connect and Build Something Amazing Together!
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="mailto:rakibulislamemon60@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="65"/>
+        <br><strong>Email Me</strong>
+        <br><sub>Quick Response</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/rakibul-islam-emon/">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="65"/>
+        <br><strong>LinkedIn</strong>
+        <br><sub>Let's Network</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://portfolio-v2-theta-fawn.vercel.app/">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="65"/>
+        <br><strong>Portfolio</strong>
+        <br><sub>View My Work</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Rakibulislam-emon">
+        <img src="https://img.icons8.com/fluency/96/000000/github.png" width="65"/>
+        <br><strong>GitHub</strong>
+        <br><sub>Follow Me</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.facebook.com/rakib.hussein.543792">
+        <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="65"/>
+        <br><strong>Facebook</strong>
+        <br><sub>Let's Be Friends</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🎯 Or Drop Me a Message Here
+
+<a href="mailto:rakibulislamemon60@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rakibulislamemon60%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<a href="https://www.linkedin.com/in/rakibul-islam-emon/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rakibul_Islam_Emon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+
+<br><br>
+
+### 🤝 Open For
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/>
+      <br><strong>Freelance Projects</strong>
+      <br><sub>Web Development & Design</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
+      <br><strong>Collaborations</strong>
+      <br><sub>Open Source & Innovation</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94330904.png" width="40"/>
+      <br><strong>Opportunities</strong>
+      <br><sub>Full-time or Contract</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="https://user-images.githubusercontent.com/74038190/216122003-15d48895-423e-45ab-b4ef-19202a65ff8e.png" width="40"/>
+      <br><strong>Mentorship</strong>
+      <br><sub>Share & Learn Together</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=%F0%9F%92%AC+Feel+free+to+reach+out!;%F0%9F%9A%80+Always+open+to+interesting+conversations;%E2%98%95+Let's+grab+a+virtual+coffee!" alt="Footer Animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-aa4c2b4b-8b6b-4d6d-8e5a-6d292e3e7d7d.gif" width="25">
+  Thanks for Visiting! Let's Create Something Extraordinary Together
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-aa4c2b4b-8b6b-4d6d-8e5a-6d292e3e7d7d.gif" width="25">
+</h3>
+
+<p align="center">
+  <em>"The best way to predict the future is to create it." - Peter Drucker</em>
+</p>
+
+<br>
+
+</div>
