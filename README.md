@@ -1,46 +1,58 @@
+<div align="center">
+  <!-- Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cb77e,100:2a9d8f&height=200&section=header&text=Hi,+I'm%20Rakibul!👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<br clear="both">
+  <p>
+    <a href="https://github.com/Rakibulislam-emon"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Rakibulislam-emon&style=for-the-badge&color=3cb77e" /></a>
+    <a href="https://linkedin.com/in/rakibulislam-emon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto:rakibulislamemon60@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://rakibulislam-emon.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3CB77E?style=for-the-badge&logo=safari" /></a>
+  </p>
+</div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> What I'm Up To
 
 <div align="center">
   
-🔭 **Currently Working On:** Building a full-stack e-commerce platform with React & Node.js
+🔭 **Currently Working On:** Building a full-stack e-commerce platform with React & Node.js  
 
-🌱 **Learning:** Advanced React patterns, GraphQL, and Cloud Architecture
+🌱 **Learning:** Advanced React patterns, GraphQL, and Cloud Architecture  
 
-👯 **Looking to Collaborate:** Open source projects and innovative web applications
+👯 **Looking to Collaborate:** Open source projects and innovative web applications  
 
-🎯 **2024 Goals:** Contribute to 10+ open source projects and master Next.js 13+
+🎯 **2024 Goals:** Contribute to 10+ open source projects and master Next.js  
 
-💬 **Ask Me About:** React, JavaScript, Frontend Architecture, or anything web development!
+💬 **Ask Me About:** React, JavaScript, Frontend Architecture  
 
-⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes! 🧩
+⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes! 🧩  
 
 </div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-### 🚀 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,sass,redux" />
+### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,vercel,netlify" />
-
-### 📱 Currently Learning
-<img src="https://skillicons.dev/icons?i=graphql,aws,kubernetes,redis,prisma" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel" />
 
 </div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakibulislam-emon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakibulislam-emon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibulislam-emon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
@@ -51,6 +63,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibulislam-emon&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b1f236a.gif" width="30"> Featured Projects
 
@@ -113,23 +127,25 @@
   </table>
 </div>
 
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c92-4c1e-8dc6-5c08a4b6a912.gif" width="30"> Connect & Collaborate
 
 <div align="center">
   <a href="mailto:rakibulislamemon60@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://www.linkedin.com/in/rakibul-islam-emon">
+  <a href="https://www.linkedin.com/in/rakibulislam-emon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/rakibulislamemon">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://rakibulislam-emon.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF5722" />
   </a>
-  <a href="https://discord.gg/your-discord">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" />
+  <a href="https://ko-fi.com/rakibulislamemon">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061" />
   </a>
 </div>
 
@@ -141,18 +157,10 @@
   </h3>
   
   <p><em>"The best way to predict the future is to create it." - Peter Drucker</em></p>
-  
-  <a href="https://ko-fi.com/your-kofi">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061" />
-  </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3cb77e,100:2a9d8f&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
 
 ---
@@ -162,7 +170,3 @@
   <strong>Thanks for visiting! Happy coding! 🚀</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
 </div>
-
-
-
-
