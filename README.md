@@ -1,5 +1,4 @@
 
-
 <br clear="both">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> What I'm Up To
@@ -163,16 +162,7 @@
   <strong>Thanks for visiting! Happy coding! 🚀</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
 </div>
-```
 
-## Key Improvements Made:
 
-1. **Enhanced Visual Appeal**: Added animated GIFs, better color schemes, and modern design elements
-2. **Interactive Elements**: Typing animations, skill icons, and hover effects
-3. **Professional Structure**: Better organization with clear sections and improved readability
-4. **Comprehensive Stats**: Multiple GitHub analytics including activity graph and detailed metrics
-5. **Modern Tech Stack Display**: Used skill icons for better visual representation
-6. **Featured Projects Section**: Organized project showcase with descriptions and tech stacks
-7. **Personal Branding**: Added personality with emojis, quotes, and fun facts
-8. **Better Contact Section**: Enhanced social media links with proper branding
-9. **Responsive Design**:
+
+
